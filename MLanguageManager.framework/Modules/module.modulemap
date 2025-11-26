@@ -1,6 +1,0 @@
-framework module MLanguageManager {
-  umbrella header "MLanguageManager.h"
-  export *
-
-  module * { export * }
-}
