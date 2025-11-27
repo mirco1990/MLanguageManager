@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "hi",
+    "language_name": "印地语",
+    "generated_date": "2025-11-25T14:45:02.781206"
+  },
+  "translations": {
+    "welcome": "[印地语] 欢迎",
+    "hello": "[印地语] 你好，{0}！",
+    "settings": "[印地语] 设置",
+    "language": "[印地语] 语言",
+    "save": "[印地语] 保存",
+    "cancel": "[印地语] 取消",
+    "error": "[印地语] 错误",
+    "success": "[印地语] 成功"
+  }
+}

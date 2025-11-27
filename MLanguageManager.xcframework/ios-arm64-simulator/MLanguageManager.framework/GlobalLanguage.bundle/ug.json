@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ug",
+    "language_name": "维吾尔语",
+    "generated_date": "2025-11-25T14:45:02.784121"
+  },
+  "translations": {
+    "welcome": "[维吾尔语] 欢迎",
+    "hello": "[维吾尔语] 你好，{0}！",
+    "settings": "[维吾尔语] 设置",
+    "language": "[维吾尔语] 语言",
+    "save": "[维吾尔语] 保存",
+    "cancel": "[维吾尔语] 取消",
+    "error": "[维吾尔语] 错误",
+    "success": "[维吾尔语] 成功"
+  }
+}

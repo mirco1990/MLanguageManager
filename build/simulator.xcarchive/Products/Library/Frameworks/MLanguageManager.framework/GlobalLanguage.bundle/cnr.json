@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "cnr",
+    "language_name": "黑山语",
+    "generated_date": "2025-11-25T14:45:02.788636"
+  },
+  "translations": {
+    "welcome": "[黑山语] 欢迎",
+    "hello": "[黑山语] 你好，{0}！",
+    "settings": "[黑山语] 设置",
+    "language": "[黑山语] 语言",
+    "save": "[黑山语] 保存",
+    "cancel": "[黑山语] 取消",
+    "error": "[黑山语] 错误",
+    "success": "[黑山语] 成功"
+  }
+}

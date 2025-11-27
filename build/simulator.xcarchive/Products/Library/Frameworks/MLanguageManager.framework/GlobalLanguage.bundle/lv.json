@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "lv",
+    "language_name": "拉脱维亚语",
+    "generated_date": "2025-11-25T14:45:02.787850"
+  },
+  "translations": {
+    "welcome": "[拉脱维亚语] 欢迎",
+    "hello": "[拉脱维亚语] 你好，{0}！",
+    "settings": "[拉脱维亚语] 设置",
+    "language": "[拉脱维亚语] 语言",
+    "save": "[拉脱维亚语] 保存",
+    "cancel": "[拉脱维亚语] 取消",
+    "error": "[拉脱维亚语] 错误",
+    "success": "[拉脱维亚语] 成功"
+  }
+}
