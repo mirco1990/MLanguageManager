@@ -6,7 +6,7 @@ PODSPEC_NAME="${FRAMEWORK_NAME}.podspec" # podspec文件名
 FRAMEWORK_PATH="./MLanguageManager.framework" # 预编译framework的路径，相对于脚本位置
 GIT_REMOTE="origin" # Git远程仓库别名
 BRANCH="main" # 要推送的分支名（根据你的仓库调整，如main/master）
-VERSION="1.0.0" # 本次发布的版本号，务必与podspec中的s.version一致
+VERSION="1.0.1" # 本次发布的版本号，务必与podspec中的s.version一致
 # ===================================
 
 set -e # 任何语句执行失败就退出

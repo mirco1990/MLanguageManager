@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name         = "MLanguageManager"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "专业级的 iOS 全球多语言国际化 SDK"
   s.description  = <<-DESC
-                   专业级的 iOS 多语言国际化 SDK，支持全球 80+ 种语言动态切换。
+                   专业级的 iOS 多语言国际化 SDK，支持全球 140+ 种语言动态切换。
                    无需依赖系统 .lproj 文件，可配置启用指定语言，完美适配复杂多变的国际化需求。
                    轻量级、高性能，助力应用快速实现全球化部署。
                    DESC
