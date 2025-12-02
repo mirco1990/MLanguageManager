@@ -21,6 +21,9 @@ Pod::Spec.new do |s|
     :tag => "#{s.version}" 
   }
   
+  
+  # 指向你framework的头文件
+  s.source_files = 'MLanguageManager.framework/Headers/*.h' 
   # 关键：指定预编译的二进制框架（仅 arm64）
   s.vendored_frameworks = 'MLanguageManager.framework'
   
