@@ -11,12 +11,13 @@
   ⚡使用
                    
   监听语言设置,语言发生切换时会发送切换通知
+  
       [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(languageDidChange:) name:GlobalLanguageDidChangeNotification object:nil];
 
   初始化SDK并配置需要开启的语种
+  
       GlobalLanguageManager *manager = [GlobalLanguageManager sharedManager];
       manager.enableMemoryCache = YES;
-
       NSArray *availableLanguages = @[
             [GlobalLanguage languageWithType:GlobalLanguageChineseSimplified],// 简体中文
             [GlobalLanguage languageWithType:GlobalLanguageChineseTraditional],// 繁体中文
@@ -30,8 +31,8 @@
      [manager configureAvailableLanguages:availableLanguages defaultLanguageType:GlobalLanguageEnglish];
 
    使用本地化字符串
+   
       NSString *welcome = [manager localizedStringForKey:@"welcome"];
       NSLog(@"欢迎语: %@", welcome);
 
 
-// 发布pod trunk push "MLanguageManager" --allow-warnings --skip-import-validation --use-libraries --skip-tests --verbose
