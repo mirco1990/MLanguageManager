@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ks",
+    "language_name": "克什米尔语",
+    "generated_date": "2025-12-02T09:22:10.225662"
+  },
+  "translations": {
+    "welcome": "[克什米尔语] 欢迎",
+    "hello": "[克什米尔语] 你好，{0}！",
+    "settings": "[克什米尔语] 设置",
+    "language": "[克什米尔语] 语言",
+    "save": "[克什米尔语] 保存",
+    "cancel": "[克什米尔语] 取消",
+    "error": "[克什米尔语] 错误",
+    "success": "[克什米尔语] 成功"
+  }
+}

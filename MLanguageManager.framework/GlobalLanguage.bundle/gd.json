@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "gd",
+    "language_name": "苏格兰盖尔语",
+    "generated_date": "2025-12-02T09:22:10.227212"
+  },
+  "translations": {
+    "welcome": "[苏格兰盖尔语] 欢迎",
+    "hello": "[苏格兰盖尔语] 你好，{0}！",
+    "settings": "[苏格兰盖尔语] 设置",
+    "language": "[苏格兰盖尔语] 语言",
+    "save": "[苏格兰盖尔语] 保存",
+    "cancel": "[苏格兰盖尔语] 取消",
+    "error": "[苏格兰盖尔语] 错误",
+    "success": "[苏格兰盖尔语] 成功"
+  }
+}

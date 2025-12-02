@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ga",
+    "language_name": "爱尔兰语",
+    "generated_date": "2025-12-02T09:22:10.227132"
+  },
+  "translations": {
+    "welcome": "[爱尔兰语] 欢迎",
+    "hello": "[爱尔兰语] 你好，{0}！",
+    "settings": "[爱尔兰语] 设置",
+    "language": "[爱尔兰语] 语言",
+    "save": "[爱尔兰语] 保存",
+    "cancel": "[爱尔兰语] 取消",
+    "error": "[爱尔兰语] 错误",
+    "success": "[爱尔兰语] 成功"
+  }
+}

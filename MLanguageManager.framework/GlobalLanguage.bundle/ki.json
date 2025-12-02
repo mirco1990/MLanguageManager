@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ki",
+    "language_name": "基库尤语",
+    "generated_date": "2025-12-02T09:22:10.228111"
+  },
+  "translations": {
+    "welcome": "[基库尤语] 欢迎",
+    "hello": "[基库尤语] 你好，{0}！",
+    "settings": "[基库尤语] 设置",
+    "language": "[基库尤语] 语言",
+    "save": "[基库尤语] 保存",
+    "cancel": "[基库尤语] 取消",
+    "error": "[基库尤语] 错误",
+    "success": "[基库尤语] 成功"
+  }
+}

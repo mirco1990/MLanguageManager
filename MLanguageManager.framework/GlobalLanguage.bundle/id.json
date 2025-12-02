@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "id",
+    "language_name": "印尼语",
+    "generated_date": "2025-12-02T09:22:10.218036"
+  },
+  "translations": {
+    "welcome": "[印尼语] 欢迎",
+    "hello": "[印尼语] 你好，{0}！",
+    "settings": "[印尼语] 设置",
+    "language": "[印尼语] 语言",
+    "save": "[印尼语] 保存",
+    "cancel": "[印尼语] 取消",
+    "error": "[印尼语] 错误",
+    "success": "[印尼语] 成功"
+  }
+}

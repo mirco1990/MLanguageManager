@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "nl",
+    "language_name": "荷兰语",
+    "generated_date": "2025-12-02T09:22:10.220308"
+  },
+  "translations": {
+    "welcome": "[荷兰语] 欢迎",
+    "hello": "[荷兰语] 你好，{0}！",
+    "settings": "[荷兰语] 设置",
+    "language": "[荷兰语] 语言",
+    "save": "[荷兰语] 保存",
+    "cancel": "[荷兰语] 取消",
+    "error": "[荷兰语] 错误",
+    "success": "[荷兰语] 成功"
+  }
+}

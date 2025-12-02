@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "fil",
+    "language_name": "菲律宾语",
+    "generated_date": "2025-12-02T09:22:10.218205"
+  },
+  "translations": {
+    "welcome": "[菲律宾语] 欢迎",
+    "hello": "[菲律宾语] 你好，{0}！",
+    "settings": "[菲律宾语] 设置",
+    "language": "[菲律宾语] 语言",
+    "save": "[菲律宾语] 保存",
+    "cancel": "[菲律宾语] 取消",
+    "error": "[菲律宾语] 错误",
+    "success": "[菲律宾语] 成功"
+  }
+}

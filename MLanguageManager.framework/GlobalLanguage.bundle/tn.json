@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "tn",
+    "language_name": "茨瓦纳语",
+    "generated_date": "2025-12-02T09:22:10.228627"
+  },
+  "translations": {
+    "welcome": "[茨瓦纳语] 欢迎",
+    "hello": "[茨瓦纳语] 你好，{0}！",
+    "settings": "[茨瓦纳语] 设置",
+    "language": "[茨瓦纳语] 语言",
+    "save": "[茨瓦纳语] 保存",
+    "cancel": "[茨瓦纳语] 取消",
+    "error": "[茨瓦纳语] 错误",
+    "success": "[茨瓦纳语] 成功"
+  }
+}

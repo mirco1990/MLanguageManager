@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "kl",
+    "language_name": "格陵兰语",
+    "generated_date": "2025-12-02T09:22:10.229238"
+  },
+  "translations": {
+    "welcome": "[格陵兰语] 欢迎",
+    "hello": "[格陵兰语] 你好，{0}！",
+    "settings": "[格陵兰语] 设置",
+    "language": "[格陵兰语] 语言",
+    "save": "[格陵兰语] 保存",
+    "cancel": "[格陵兰语] 取消",
+    "error": "[格陵兰语] 错误",
+    "success": "[格陵兰语] 成功"
+  }
+}

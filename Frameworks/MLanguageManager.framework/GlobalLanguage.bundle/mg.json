@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "mg",
+    "language_name": "马尔加什语",
+    "generated_date": "2025-12-02T09:22:10.223289"
+  },
+  "translations": {
+    "welcome": "[马尔加什语] 欢迎",
+    "hello": "[马尔加什语] 你好，{0}！",
+    "settings": "[马尔加什语] 设置",
+    "language": "[马尔加什语] 语言",
+    "save": "[马尔加什语] 保存",
+    "cancel": "[马尔加什语] 取消",
+    "error": "[马尔加什语] 错误",
+    "success": "[马尔加什语] 成功"
+  }
+}

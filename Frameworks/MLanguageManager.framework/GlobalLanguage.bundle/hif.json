@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "hif",
+    "language_name": "斐济印地语",
+    "generated_date": "2025-12-02T09:22:10.229581"
+  },
+  "translations": {
+    "welcome": "[斐济印地语] 欢迎",
+    "hello": "[斐济印地语] 你好，{0}！",
+    "settings": "[斐济印地语] 设置",
+    "language": "[斐济印地语] 语言",
+    "save": "[斐济印地语] 保存",
+    "cancel": "[斐济印地语] 取消",
+    "error": "[斐济印地语] 错误",
+    "success": "[斐济印地语] 成功"
+  }
+}

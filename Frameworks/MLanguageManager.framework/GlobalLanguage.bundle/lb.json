@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "lb",
+    "language_name": "卢森堡语",
+    "generated_date": "2025-12-02T09:22:10.227384"
+  },
+  "translations": {
+    "welcome": "[卢森堡语] 欢迎",
+    "hello": "[卢森堡语] 你好，{0}！",
+    "settings": "[卢森堡语] 设置",
+    "language": "[卢森堡语] 语言",
+    "save": "[卢森堡语] 保存",
+    "cancel": "[卢森堡语] 取消",
+    "error": "[卢森堡语] 错误",
+    "success": "[卢森堡语] 成功"
+  }
+}

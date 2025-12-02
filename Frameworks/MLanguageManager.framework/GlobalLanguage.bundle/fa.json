@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "fa",
+    "language_name": "波斯语",
+    "generated_date": "2025-12-02T09:22:10.219232"
+  },
+  "translations": {
+    "welcome": "[波斯语] 欢迎",
+    "hello": "[波斯语] 你好，{0}！",
+    "settings": "[波斯语] 设置",
+    "language": "[波斯语] 语言",
+    "save": "[波斯语] 保存",
+    "cancel": "[波斯语] 取消",
+    "error": "[波斯语] 错误",
+    "success": "[波斯语] 成功"
+  }
+}

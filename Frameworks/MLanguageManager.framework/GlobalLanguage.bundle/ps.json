@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ps",
+    "language_name": "普什图语",
+    "generated_date": "2025-12-02T09:22:10.219321"
+  },
+  "translations": {
+    "welcome": "[普什图语] 欢迎",
+    "hello": "[普什图语] 你好，{0}！",
+    "settings": "[普什图语] 设置",
+    "language": "[普什图语] 语言",
+    "save": "[普什图语] 保存",
+    "cancel": "[普什图语] 取消",
+    "error": "[普什图语] 错误",
+    "success": "[普什图语] 成功"
+  }
+}

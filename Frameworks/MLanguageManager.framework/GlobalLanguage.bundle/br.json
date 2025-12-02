@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "br",
+    "language_name": "布列塔尼语",
+    "generated_date": "2025-12-02T09:22:10.227304"
+  },
+  "translations": {
+    "welcome": "[布列塔尼语] 欢迎",
+    "hello": "[布列塔尼语] 你好，{0}！",
+    "settings": "[布列塔尼语] 设置",
+    "language": "[布列塔尼语] 语言",
+    "save": "[布列塔尼语] 保存",
+    "cancel": "[布列塔尼语] 取消",
+    "error": "[布列塔尼语] 错误",
+    "success": "[布列塔尼语] 成功"
+  }
+}

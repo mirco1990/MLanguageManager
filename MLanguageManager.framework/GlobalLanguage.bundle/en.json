@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "en",
+    "language_name": "英语",
+    "generated_date": "2025-12-02T09:22:10.219724"
+  },
+  "translations": {
+    "welcome": "[英语] 欢迎",
+    "hello": "[英语] 你好，{0}！",
+    "settings": "[英语] 设置",
+    "language": "[英语] 语言",
+    "save": "[英语] 保存",
+    "cancel": "[英语] 取消",
+    "error": "[英语] 错误",
+    "success": "[英语] 成功"
+  }
+}

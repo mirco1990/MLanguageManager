@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "zh-Hant",
+    "language_name": "繁體中文",
+    "generated_date": "2025-12-02T09:22:10.217301"
+  },
+  "translations": {
+    "welcome": "[繁體中文] 欢迎",
+    "hello": "[繁體中文] 你好，{0}！",
+    "settings": "[繁體中文] 设置",
+    "language": "[繁體中文] 语言",
+    "save": "[繁體中文] 保存",
+    "cancel": "[繁體中文] 取消",
+    "error": "[繁體中文] 错误",
+    "success": "[繁體中文] 成功"
+  }
+}

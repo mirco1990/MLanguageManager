@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ky",
+    "language_name": "吉尔吉斯语",
+    "generated_date": "2025-12-02T09:22:10.225505"
+  },
+  "translations": {
+    "welcome": "[吉尔吉斯语] 欢迎",
+    "hello": "[吉尔吉斯语] 你好，{0}！",
+    "settings": "[吉尔吉斯语] 设置",
+    "language": "[吉尔吉斯语] 语言",
+    "save": "[吉尔吉斯语] 保存",
+    "cancel": "[吉尔吉斯语] 取消",
+    "error": "[吉尔吉斯语] 错误",
+    "success": "[吉尔吉斯语] 成功"
+  }
+}

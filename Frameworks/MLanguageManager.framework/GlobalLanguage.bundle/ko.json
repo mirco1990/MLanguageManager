@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ko",
+    "language_name": "韩语",
+    "generated_date": "2025-12-02T09:22:10.217479"
+  },
+  "translations": {
+    "welcome": "[韩语] 欢迎",
+    "hello": "[韩语] 你好，{0}！",
+    "settings": "[韩语] 设置",
+    "language": "[韩语] 语言",
+    "save": "[韩语] 保存",
+    "cancel": "[韩语] 取消",
+    "error": "[韩语] 错误",
+    "success": "[韩语] 成功"
+  }
+}

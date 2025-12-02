@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "wo",
+    "language_name": "沃洛夫语",
+    "generated_date": "2025-12-02T09:22:10.223635"
+  },
+  "translations": {
+    "welcome": "[沃洛夫语] 欢迎",
+    "hello": "[沃洛夫语] 你好，{0}！",
+    "settings": "[沃洛夫语] 设置",
+    "language": "[沃洛夫语] 语言",
+    "save": "[沃洛夫语] 保存",
+    "cancel": "[沃洛夫语] 取消",
+    "error": "[沃洛夫语] 错误",
+    "success": "[沃洛夫语] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "de",
+    "language_name": "德语",
+    "generated_date": "2025-12-02T09:22:10.219989"
+  },
+  "translations": {
+    "welcome": "[德语] 欢迎",
+    "hello": "[德语] 你好，{0}！",
+    "settings": "[德语] 设置",
+    "language": "[德语] 语言",
+    "save": "[德语] 保存",
+    "cancel": "[德语] 取消",
+    "error": "[德语] 错误",
+    "success": "[德语] 成功"
+  }
+}

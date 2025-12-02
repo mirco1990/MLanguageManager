@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ts",
+    "language_name": "聪加语",
+    "generated_date": "2025-12-02T09:22:10.228800"
+  },
+  "translations": {
+    "welcome": "[聪加语] 欢迎",
+    "hello": "[聪加语] 你好，{0}！",
+    "settings": "[聪加语] 设置",
+    "language": "[聪加语] 语言",
+    "save": "[聪加语] 保存",
+    "cancel": "[聪加语] 取消",
+    "error": "[聪加语] 错误",
+    "success": "[聪加语] 成功"
+  }
+}

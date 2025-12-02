@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "sq",
+    "language_name": "阿尔巴尼亚语",
+    "generated_date": "2025-12-02T09:22:10.222025"
+  },
+  "translations": {
+    "welcome": "[阿尔巴尼亚语] 欢迎",
+    "hello": "[阿尔巴尼亚语] 你好，{0}！",
+    "settings": "[阿尔巴尼亚语] 设置",
+    "language": "[阿尔巴尼亚语] 语言",
+    "save": "[阿尔巴尼亚语] 保存",
+    "cancel": "[阿尔巴尼亚语] 取消",
+    "error": "[阿尔巴尼亚语] 错误",
+    "success": "[阿尔巴尼亚语] 成功"
+  }
+}

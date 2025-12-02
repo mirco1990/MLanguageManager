@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "it",
+    "language_name": "意大利语",
+    "generated_date": "2025-12-02T09:22:10.220067"
+  },
+  "translations": {
+    "welcome": "[意大利语] 欢迎",
+    "hello": "[意大利语] 你好，{0}！",
+    "settings": "[意大利语] 设置",
+    "language": "[意大利语] 语言",
+    "save": "[意大利语] 保存",
+    "cancel": "[意大利语] 取消",
+    "error": "[意大利语] 错误",
+    "success": "[意大利语] 成功"
+  }
+}

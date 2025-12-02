@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "sl",
+    "language_name": "斯洛文尼亚语",
+    "generated_date": "2025-12-02T09:22:10.221422"
+  },
+  "translations": {
+    "welcome": "[斯洛文尼亚语] 欢迎",
+    "hello": "[斯洛文尼亚语] 你好，{0}！",
+    "settings": "[斯洛文尼亚语] 设置",
+    "language": "[斯洛文尼亚语] 语言",
+    "save": "[斯洛文尼亚语] 保存",
+    "cancel": "[斯洛文尼亚语] 取消",
+    "error": "[斯洛文尼亚语] 错误",
+    "success": "[斯洛文尼亚语] 成功"
+  }
+}

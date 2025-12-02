@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "bo",
+    "language_name": "藏语",
+    "generated_date": "2025-12-02T09:22:10.226673"
+  },
+  "translations": {
+    "welcome": "[藏语] 欢迎",
+    "hello": "[藏语] 你好，{0}！",
+    "settings": "[藏语] 设置",
+    "language": "[藏语] 语言",
+    "save": "[藏语] 保存",
+    "cancel": "[藏语] 取消",
+    "error": "[藏语] 错误",
+    "success": "[藏语] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ln",
+    "language_name": "林加拉语",
+    "generated_date": "2025-12-02T09:22:10.228283"
+  },
+  "translations": {
+    "welcome": "[林加拉语] 欢迎",
+    "hello": "[林加拉语] 你好，{0}！",
+    "settings": "[林加拉语] 设置",
+    "language": "[林加拉语] 语言",
+    "save": "[林加拉语] 保存",
+    "cancel": "[林加拉语] 取消",
+    "error": "[林加拉语] 错误",
+    "success": "[林加拉语] 成功"
+  }
+}

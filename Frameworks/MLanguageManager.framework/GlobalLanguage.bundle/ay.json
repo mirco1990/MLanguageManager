@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ay",
+    "language_name": "艾马拉语",
+    "generated_date": "2025-12-02T09:22:10.224322"
+  },
+  "translations": {
+    "welcome": "[艾马拉语] 欢迎",
+    "hello": "[艾马拉语] 你好，{0}！",
+    "settings": "[艾马拉语] 设置",
+    "language": "[艾马拉语] 语言",
+    "save": "[艾马拉语] 保存",
+    "cancel": "[艾马拉语] 取消",
+    "error": "[艾马拉语] 错误",
+    "success": "[艾马拉语] 成功"
+  }
+}

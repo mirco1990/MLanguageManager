@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ru",
+    "language_name": "俄语",
+    "generated_date": "2025-12-02T09:22:10.220228"
+  },
+  "translations": {
+    "welcome": "[俄语] 欢迎",
+    "hello": "[俄语] 你好，{0}！",
+    "settings": "[俄语] 设置",
+    "language": "[俄语] 语言",
+    "save": "[俄语] 保存",
+    "cancel": "[俄语] 取消",
+    "error": "[俄语] 错误",
+    "success": "[俄语] 成功"
+  }
+}

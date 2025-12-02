@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "kk",
+    "language_name": "哈萨克语",
+    "generated_date": "2025-12-02T09:22:10.219563"
+  },
+  "translations": {
+    "welcome": "[哈萨克语] 欢迎",
+    "hello": "[哈萨克语] 你好，{0}！",
+    "settings": "[哈萨克语] 设置",
+    "language": "[哈萨克语] 语言",
+    "save": "[哈萨克语] 保存",
+    "cancel": "[哈萨克语] 取消",
+    "error": "[哈萨克语] 错误",
+    "success": "[哈萨克语] 成功"
+  }
+}

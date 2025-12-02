@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "fr",
+    "language_name": "法语",
+    "generated_date": "2025-12-02T09:22:10.219912"
+  },
+  "translations": {
+    "welcome": "[法语] 欢迎",
+    "hello": "[法语] 你好，{0}！",
+    "settings": "[法语] 设置",
+    "language": "[法语] 语言",
+    "save": "[法语] 保存",
+    "cancel": "[法语] 取消",
+    "error": "[法语] 错误",
+    "success": "[法语] 成功"
+  }
+}

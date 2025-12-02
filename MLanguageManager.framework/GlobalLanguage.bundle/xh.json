@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "xh",
+    "language_name": "科萨语",
+    "generated_date": "2025-12-02T09:22:10.223050"
+  },
+  "translations": {
+    "welcome": "[科萨语] 欢迎",
+    "hello": "[科萨语] 你好，{0}！",
+    "settings": "[科萨语] 设置",
+    "language": "[科萨语] 语言",
+    "save": "[科萨语] 保存",
+    "cancel": "[科萨语] 取消",
+    "error": "[科萨语] 错误",
+    "success": "[科萨语] 成功"
+  }
+}

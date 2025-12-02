@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "gn",
+    "language_name": "瓜拉尼语",
+    "generated_date": "2025-12-02T09:22:10.224234"
+  },
+  "translations": {
+    "welcome": "[瓜拉尼语] 欢迎",
+    "hello": "[瓜拉尼语] 你好，{0}！",
+    "settings": "[瓜拉尼语] 设置",
+    "language": "[瓜拉尼语] 语言",
+    "save": "[瓜拉尼语] 保存",
+    "cancel": "[瓜拉尼语] 取消",
+    "error": "[瓜拉尼语] 错误",
+    "success": "[瓜拉尼语] 成功"
+  }
+}

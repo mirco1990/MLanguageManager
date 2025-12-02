@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "no",
+    "language_name": "挪威语",
+    "generated_date": "2025-12-02T09:22:10.220869"
+  },
+  "translations": {
+    "welcome": "[挪威语] 欢迎",
+    "hello": "[挪威语] 你好，{0}！",
+    "settings": "[挪威语] 设置",
+    "language": "[挪威语] 语言",
+    "save": "[挪威语] 保存",
+    "cancel": "[挪威语] 取消",
+    "error": "[挪威语] 错误",
+    "success": "[挪威语] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "haw",
+    "language_name": "夏威夷语",
+    "generated_date": "2025-12-02T09:22:10.224654"
+  },
+  "translations": {
+    "welcome": "[夏威夷语] 欢迎",
+    "hello": "[夏威夷语] 你好，{0}！",
+    "settings": "[夏威夷语] 设置",
+    "language": "[夏威夷语] 语言",
+    "save": "[夏威夷语] 保存",
+    "cancel": "[夏威夷语] 取消",
+    "error": "[夏威夷语] 错误",
+    "success": "[夏威夷语] 成功"
+  }
+}

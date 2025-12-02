@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "qu-PE",
+    "language_name": "秘鲁克丘亚语",
+    "generated_date": "2025-12-02T09:22:10.228975"
+  },
+  "translations": {
+    "welcome": "[秘鲁克丘亚语] 欢迎",
+    "hello": "[秘鲁克丘亚语] 你好，{0}！",
+    "settings": "[秘鲁克丘亚语] 设置",
+    "language": "[秘鲁克丘亚语] 语言",
+    "save": "[秘鲁克丘亚语] 保存",
+    "cancel": "[秘鲁克丘亚语] 取消",
+    "error": "[秘鲁克丘亚语] 错误",
+    "success": "[秘鲁克丘亚语] 成功"
+  }
+}

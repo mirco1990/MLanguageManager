@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ti",
+    "language_name": "提格里尼亚语",
+    "generated_date": "2025-12-02T09:22:10.223553"
+  },
+  "translations": {
+    "welcome": "[提格里尼亚语] 欢迎",
+    "hello": "[提格里尼亚语] 你好，{0}！",
+    "settings": "[提格里尼亚语] 设置",
+    "language": "[提格里尼亚语] 语言",
+    "save": "[提格里尼亚语] 保存",
+    "cancel": "[提格里尼亚语] 取消",
+    "error": "[提格里尼亚语] 错误",
+    "success": "[提格里尼亚语] 成功"
+  }
+}

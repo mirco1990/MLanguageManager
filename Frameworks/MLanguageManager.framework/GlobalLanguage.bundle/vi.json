@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "vi",
+    "language_name": "越南语",
+    "generated_date": "2025-12-02T09:22:10.217956"
+  },
+  "translations": {
+    "welcome": "[越南语] 欢迎",
+    "hello": "[越南语] 你好，{0}！",
+    "settings": "[越南语] 设置",
+    "language": "[越南语] 语言",
+    "save": "[越南语] 保存",
+    "cancel": "[越南语] 取消",
+    "error": "[越南语] 错误",
+    "success": "[越南语] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "el",
+    "language_name": "希腊语",
+    "generated_date": "2025-12-02T09:22:10.220624"
+  },
+  "translations": {
+    "welcome": "[希腊语] 欢迎",
+    "hello": "[希腊语] 你好，{0}！",
+    "settings": "[希腊语] 设置",
+    "language": "[希腊语] 语言",
+    "save": "[希腊语] 保存",
+    "cancel": "[希腊语] 取消",
+    "error": "[希腊语] 错误",
+    "success": "[希腊语] 成功"
+  }
+}

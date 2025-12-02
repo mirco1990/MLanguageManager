@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "pt-BR",
+    "language_name": "巴西葡萄牙语",
+    "generated_date": "2025-12-02T09:22:10.223909"
+  },
+  "translations": {
+    "welcome": "[巴西葡萄牙语] 欢迎",
+    "hello": "[巴西葡萄牙语] 你好，{0}！",
+    "settings": "[巴西葡萄牙语] 设置",
+    "language": "[巴西葡萄牙语] 语言",
+    "save": "[巴西葡萄牙语] 保存",
+    "cancel": "[巴西葡萄牙语] 取消",
+    "error": "[巴西葡萄牙语] 错误",
+    "success": "[巴西葡萄牙语] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "cy",
+    "language_name": "威尔士语",
+    "generated_date": "2025-12-02T09:22:10.227058"
+  },
+  "translations": {
+    "welcome": "[威尔士语] 欢迎",
+    "hello": "[威尔士语] 你好，{0}！",
+    "settings": "[威尔士语] 设置",
+    "language": "[威尔士语] 语言",
+    "save": "[威尔士语] 保存",
+    "cancel": "[威尔士语] 取消",
+    "error": "[威尔士语] 错误",
+    "success": "[威尔士语] 成功"
+  }
+}

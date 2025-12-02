@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "cs",
+    "language_name": "捷克语",
+    "generated_date": "2025-12-02T09:22:10.220706"
+  },
+  "translations": {
+    "welcome": "[捷克语] 欢迎",
+    "hello": "[捷克语] 你好，{0}！",
+    "settings": "[捷克语] 设置",
+    "language": "[捷克语] 语言",
+    "save": "[捷克语] 保存",
+    "cancel": "[捷克语] 取消",
+    "error": "[捷克语] 错误",
+    "success": "[捷克语] 成功"
+  }
+}

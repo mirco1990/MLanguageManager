@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "mn",
+    "language_name": "蒙古语",
+    "generated_date": "2025-12-02T09:22:10.218657"
+  },
+  "translations": {
+    "welcome": "[蒙古语] 欢迎",
+    "hello": "[蒙古语] 你好，{0}！",
+    "settings": "[蒙古语] 设置",
+    "language": "[蒙古语] 语言",
+    "save": "[蒙古语] 保存",
+    "cancel": "[蒙古语] 取消",
+    "error": "[蒙古语] 错误",
+    "success": "[蒙古语] 成功"
+  }
+}

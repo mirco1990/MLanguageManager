@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "af",
+    "language_name": "南非荷兰语",
+    "generated_date": "2025-12-02T09:22:10.222580"
+  },
+  "translations": {
+    "welcome": "[南非荷兰语] 欢迎",
+    "hello": "[南非荷兰语] 你好，{0}！",
+    "settings": "[南非荷兰语] 设置",
+    "language": "[南非荷兰语] 语言",
+    "save": "[南非荷兰语] 保存",
+    "cancel": "[南非荷兰语] 取消",
+    "error": "[南非荷兰语] 错误",
+    "success": "[南非荷兰语] 成功"
+  }
+}

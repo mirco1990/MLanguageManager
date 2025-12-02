@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "kn",
+    "language_name": "卡纳达语",
+    "generated_date": "2025-12-02T09:22:10.226011"
+  },
+  "translations": {
+    "welcome": "[卡纳达语] 欢迎",
+    "hello": "[卡纳达语] 你好，{0}！",
+    "settings": "[卡纳达语] 设置",
+    "language": "[卡纳达语] 语言",
+    "save": "[卡纳达语] 保存",
+    "cancel": "[卡纳达语] 取消",
+    "error": "[卡纳达语] 错误",
+    "success": "[卡纳达语] 成功"
+  }
+}

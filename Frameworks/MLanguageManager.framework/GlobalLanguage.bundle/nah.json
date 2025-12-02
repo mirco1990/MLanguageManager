@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "nah",
+    "language_name": "纳瓦特尔语",
+    "generated_date": "2025-12-02T09:22:10.224417"
+  },
+  "translations": {
+    "welcome": "[纳瓦特尔语] 欢迎",
+    "hello": "[纳瓦特尔语] 你好，{0}！",
+    "settings": "[纳瓦特尔语] 设置",
+    "language": "[纳瓦特尔语] 语言",
+    "save": "[纳瓦特尔语] 保存",
+    "cancel": "[纳瓦特尔语] 取消",
+    "error": "[纳瓦特尔语] 错误",
+    "success": "[纳瓦特尔语] 成功"
+  }
+}

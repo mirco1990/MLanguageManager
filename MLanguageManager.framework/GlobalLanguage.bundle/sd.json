@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "sd",
+    "language_name": "信德语",
+    "generated_date": "2025-12-02T09:22:10.225773"
+  },
+  "translations": {
+    "welcome": "[信德语] 欢迎",
+    "hello": "[信德语] 你好，{0}！",
+    "settings": "[信德语] 设置",
+    "language": "[信德语] 语言",
+    "save": "[信德语] 保存",
+    "cancel": "[信德语] 取消",
+    "error": "[信德语] 错误",
+    "success": "[信德语] 成功"
+  }
+}

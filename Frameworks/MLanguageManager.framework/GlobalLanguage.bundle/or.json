@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "or",
+    "language_name": "奥里亚语",
+    "generated_date": "2025-12-02T09:22:10.226169"
+  },
+  "translations": {
+    "welcome": "[奥里亚语] 欢迎",
+    "hello": "[奥里亚语] 你好，{0}！",
+    "settings": "[奥里亚语] 设置",
+    "language": "[奥里亚语] 语言",
+    "save": "[奥里亚语] 保存",
+    "cancel": "[奥里亚语] 取消",
+    "error": "[奥里亚语] 错误",
+    "success": "[奥里亚语] 成功"
+  }
+}

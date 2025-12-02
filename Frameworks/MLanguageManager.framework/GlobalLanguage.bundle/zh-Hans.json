@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "zh-Hans",
+    "language_name": "简体中文",
+    "generated_date": "2025-12-02T09:22:10.217178"
+  },
+  "translations": {
+    "welcome": "[简体中文] 欢迎",
+    "hello": "[简体中文] 你好，{0}！",
+    "settings": "[简体中文] 设置",
+    "language": "[简体中文] 语言",
+    "save": "[简体中文] 保存",
+    "cancel": "[简体中文] 取消",
+    "error": "[简体中文] 错误",
+    "success": "[简体中文] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ht",
+    "language_name": "海地克里奥尔语",
+    "generated_date": "2025-12-02T09:22:10.229156"
+  },
+  "translations": {
+    "welcome": "[海地克里奥尔语] 欢迎",
+    "hello": "[海地克里奥尔语] 你好，{0}！",
+    "settings": "[海地克里奥尔语] 设置",
+    "language": "[海地克里奥尔语] 语言",
+    "save": "[海地克里奥尔语] 保存",
+    "cancel": "[海地克里奥尔语] 取消",
+    "error": "[海地克里奥尔语] 错误",
+    "success": "[海地克里奥尔语] 成功"
+  }
+}

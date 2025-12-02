@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "si",
+    "language_name": "僧伽罗语",
+    "generated_date": "2025-12-02T09:22:10.218820"
+  },
+  "translations": {
+    "welcome": "[僧伽罗语] 欢迎",
+    "hello": "[僧伽罗语] 你好，{0}！",
+    "settings": "[僧伽罗语] 设置",
+    "language": "[僧伽罗语] 语言",
+    "save": "[僧伽罗语] 保存",
+    "cancel": "[僧伽罗语] 取消",
+    "error": "[僧伽罗语] 错误",
+    "success": "[僧伽罗语] 成功"
+  }
+}

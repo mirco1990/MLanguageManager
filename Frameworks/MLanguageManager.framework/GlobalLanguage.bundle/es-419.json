@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "es-419",
+    "language_name": "拉丁美洲西班牙语",
+    "generated_date": "2025-12-02T09:22:10.223993"
+  },
+  "translations": {
+    "welcome": "[拉丁美洲西班牙语] 欢迎",
+    "hello": "[拉丁美洲西班牙语] 你好，{0}！",
+    "settings": "[拉丁美洲西班牙语] 设置",
+    "language": "[拉丁美洲西班牙语] 语言",
+    "save": "[拉丁美洲西班牙语] 保存",
+    "cancel": "[拉丁美洲西班牙语] 取消",
+    "error": "[拉丁美洲西班牙语] 错误",
+    "success": "[拉丁美洲西班牙语] 成功"
+  }
+}

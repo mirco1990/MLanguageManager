@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "st",
+    "language_name": "塞索托语",
+    "generated_date": "2025-12-02T09:22:10.228540"
+  },
+  "translations": {
+    "welcome": "[塞索托语] 欢迎",
+    "hello": "[塞索托语] 你好，{0}！",
+    "settings": "[塞索托语] 设置",
+    "language": "[塞索托语] 语言",
+    "save": "[塞索托语] 保存",
+    "cancel": "[塞索托语] 取消",
+    "error": "[塞索托语] 错误",
+    "success": "[塞索托语] 成功"
+  }
+}

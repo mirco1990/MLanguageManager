@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ro",
+    "language_name": "罗马尼亚语",
+    "generated_date": "2025-12-02T09:22:10.220546"
+  },
+  "translations": {
+    "welcome": "[罗马尼亚语] 欢迎",
+    "hello": "[罗马尼亚语] 你好，{0}！",
+    "settings": "[罗马尼亚语] 设置",
+    "language": "[罗马尼亚语] 语言",
+    "save": "[罗马尼亚语] 保存",
+    "cancel": "[罗马尼亚语] 取消",
+    "error": "[罗马尼亚语] 错误",
+    "success": "[罗马尼亚语] 成功"
+  }
+}

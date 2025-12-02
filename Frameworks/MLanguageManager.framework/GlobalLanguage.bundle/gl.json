@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "gl",
+    "language_name": "加利西亚语",
+    "generated_date": "2025-12-02T09:22:10.226983"
+  },
+  "translations": {
+    "welcome": "[加利西亚语] 欢迎",
+    "hello": "[加利西亚语] 你好，{0}！",
+    "settings": "[加利西亚语] 设置",
+    "language": "[加利西亚语] 语言",
+    "save": "[加利西亚语] 保存",
+    "cancel": "[加利西亚语] 取消",
+    "error": "[加利西亚语] 错误",
+    "success": "[加利西亚语] 成功"
+  }
+}

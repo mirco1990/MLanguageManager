@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ss",
+    "language_name": "斯瓦特语",
+    "generated_date": "2025-12-02T09:22:10.228712"
+  },
+  "translations": {
+    "welcome": "[斯瓦特语] 欢迎",
+    "hello": "[斯瓦特语] 你好，{0}！",
+    "settings": "[斯瓦特语] 设置",
+    "language": "[斯瓦特语] 语言",
+    "save": "[斯瓦特语] 保存",
+    "cancel": "[斯瓦特语] 取消",
+    "error": "[斯瓦特语] 错误",
+    "success": "[斯瓦特语] 成功"
+  }
+}

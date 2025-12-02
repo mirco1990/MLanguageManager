@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "is",
+    "language_name": "冰岛语",
+    "generated_date": "2025-12-02T09:22:10.221947"
+  },
+  "translations": {
+    "welcome": "[冰岛语] 欢迎",
+    "hello": "[冰岛语] 你好，{0}！",
+    "settings": "[冰岛语] 设置",
+    "language": "[冰岛语] 语言",
+    "save": "[冰岛语] 保存",
+    "cancel": "[冰岛语] 取消",
+    "error": "[冰岛语] 错误",
+    "success": "[冰岛语] 成功"
+  }
+}

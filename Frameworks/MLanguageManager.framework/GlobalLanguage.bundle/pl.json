@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "pl",
+    "language_name": "波兰语",
+    "generated_date": "2025-12-02T09:22:10.220388"
+  },
+  "translations": {
+    "welcome": "[波兰语] 欢迎",
+    "hello": "[波兰语] 你好，{0}！",
+    "settings": "[波兰语] 设置",
+    "language": "[波兰语] 语言",
+    "save": "[波兰语] 保存",
+    "cancel": "[波兰语] 取消",
+    "error": "[波兰语] 错误",
+    "success": "[波兰语] 成功"
+  }
+}

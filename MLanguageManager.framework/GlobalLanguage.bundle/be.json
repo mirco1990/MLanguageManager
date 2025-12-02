@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "be",
+    "language_name": "白俄罗斯语",
+    "generated_date": "2025-12-02T09:22:10.221584"
+  },
+  "translations": {
+    "welcome": "[白俄罗斯语] 欢迎",
+    "hello": "[白俄罗斯语] 你好，{0}！",
+    "settings": "[白俄罗斯语] 设置",
+    "language": "[白俄罗斯语] 语言",
+    "save": "[白俄罗斯语] 保存",
+    "cancel": "[白俄罗斯语] 取消",
+    "error": "[白俄罗斯语] 错误",
+    "success": "[白俄罗斯语] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ny",
+    "language_name": "齐切瓦语",
+    "generated_date": "2025-12-02T09:22:10.228024"
+  },
+  "translations": {
+    "welcome": "[齐切瓦语] 欢迎",
+    "hello": "[齐切瓦语] 你好，{0}！",
+    "settings": "[齐切瓦语] 设置",
+    "language": "[齐切瓦语] 语言",
+    "save": "[齐切瓦语] 保存",
+    "cancel": "[齐切瓦语] 取消",
+    "error": "[齐切瓦语] 错误",
+    "success": "[齐切瓦语] 成功"
+  }
+}

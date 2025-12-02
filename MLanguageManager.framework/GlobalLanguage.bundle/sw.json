@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "sw",
+    "language_name": "斯瓦希里语",
+    "generated_date": "2025-12-02T09:22:10.222431"
+  },
+  "translations": {
+    "welcome": "[斯瓦希里语] 欢迎",
+    "hello": "[斯瓦希里语] 你好，{0}！",
+    "settings": "[斯瓦希里语] 设置",
+    "language": "[斯瓦希里语] 语言",
+    "save": "[斯瓦希里语] 保存",
+    "cancel": "[斯瓦希里语] 取消",
+    "error": "[斯瓦希里语] 错误",
+    "success": "[斯瓦希里语] 成功"
+  }
+}

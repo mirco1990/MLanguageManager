@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "tk",
+    "language_name": "土库曼语",
+    "generated_date": "2025-12-02T09:22:10.225331"
+  },
+  "translations": {
+    "welcome": "[土库曼语] 欢迎",
+    "hello": "[土库曼语] 你好，{0}！",
+    "settings": "[土库曼语] 设置",
+    "language": "[土库曼语] 语言",
+    "save": "[土库曼语] 保存",
+    "cancel": "[土库曼语] 取消",
+    "error": "[土库曼语] 错误",
+    "success": "[土库曼语] 成功"
+  }
+}

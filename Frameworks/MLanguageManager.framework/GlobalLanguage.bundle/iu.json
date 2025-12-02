@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "iu",
+    "language_name": "因纽特语",
+    "generated_date": "2025-12-02T09:22:10.229320"
+  },
+  "translations": {
+    "welcome": "[因纽特语] 欢迎",
+    "hello": "[因纽特语] 你好，{0}！",
+    "settings": "[因纽特语] 设置",
+    "language": "[因纽特语] 语言",
+    "save": "[因纽特语] 保存",
+    "cancel": "[因纽特语] 取消",
+    "error": "[因纽特语] 错误",
+    "success": "[因纽特语] 成功"
+  }
+}

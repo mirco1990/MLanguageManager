@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "es",
+    "language_name": "西班牙语",
+    "generated_date": "2025-12-02T09:22:10.219834"
+  },
+  "translations": {
+    "welcome": "[西班牙语] 欢迎",
+    "hello": "[西班牙语] 你好，{0}！",
+    "settings": "[西班牙语] 设置",
+    "language": "[西班牙语] 语言",
+    "save": "[西班牙语] 保存",
+    "cancel": "[西班牙语] 取消",
+    "error": "[西班牙语] 错误",
+    "success": "[西班牙语] 成功"
+  }
+}

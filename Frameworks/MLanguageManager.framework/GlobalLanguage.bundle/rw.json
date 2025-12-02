@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "rw",
+    "language_name": "卢旺达语",
+    "generated_date": "2025-12-02T09:22:10.223385"
+  },
+  "translations": {
+    "welcome": "[卢旺达语] 欢迎",
+    "hello": "[卢旺达语] 你好，{0}！",
+    "settings": "[卢旺达语] 设置",
+    "language": "[卢旺达语] 语言",
+    "save": "[卢旺达语] 保存",
+    "cancel": "[卢旺达语] 取消",
+    "error": "[卢旺达语] 错误",
+    "success": "[卢旺达语] 成功"
+  }
+}

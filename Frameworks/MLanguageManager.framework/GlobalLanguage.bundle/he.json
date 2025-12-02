@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "he",
+    "language_name": "希伯来语",
+    "generated_date": "2025-12-02T09:22:10.217732"
+  },
+  "translations": {
+    "welcome": "[希伯来语] 欢迎",
+    "hello": "[希伯来语] 你好，{0}！",
+    "settings": "[希伯来语] 设置",
+    "language": "[希伯来语] 语言",
+    "save": "[希伯来语] 保存",
+    "cancel": "[希伯来语] 取消",
+    "error": "[希伯来语] 错误",
+    "success": "[希伯来语] 成功"
+  }
+}

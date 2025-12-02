@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "sn",
+    "language_name": "绍纳语",
+    "generated_date": "2025-12-02T09:22:10.223130"
+  },
+  "translations": {
+    "welcome": "[绍纳语] 欢迎",
+    "hello": "[绍纳语] 你好，{0}！",
+    "settings": "[绍纳语] 设置",
+    "language": "[绍纳语] 语言",
+    "save": "[绍纳语] 保存",
+    "cancel": "[绍纳语] 取消",
+    "error": "[绍纳语] 错误",
+    "success": "[绍纳语] 成功"
+  }
+}

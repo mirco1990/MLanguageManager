@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "csb",
+    "language_name": "卡舒比语",
+    "generated_date": "2025-12-02T09:22:10.226580"
+  },
+  "translations": {
+    "welcome": "[卡舒比语] 欢迎",
+    "hello": "[卡舒比语] 你好，{0}！",
+    "settings": "[卡舒比语] 设置",
+    "language": "[卡舒比语] 语言",
+    "save": "[卡舒比语] 保存",
+    "cancel": "[卡舒比语] 取消",
+    "error": "[卡舒比语] 错误",
+    "success": "[卡舒比语] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "fj",
+    "language_name": "斐济语",
+    "generated_date": "2025-12-02T09:22:10.224741"
+  },
+  "translations": {
+    "welcome": "[斐济语] 欢迎",
+    "hello": "[斐济语] 你好，{0}！",
+    "settings": "[斐济语] 设置",
+    "language": "[斐济语] 语言",
+    "save": "[斐济语] 保存",
+    "cancel": "[斐济语] 取消",
+    "error": "[斐济语] 错误",
+    "success": "[斐济语] 成功"
+  }
+}

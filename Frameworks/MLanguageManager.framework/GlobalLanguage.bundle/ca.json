@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ca",
+    "language_name": "加泰罗尼亚语",
+    "generated_date": "2025-12-02T09:22:10.226826"
+  },
+  "translations": {
+    "welcome": "[加泰罗尼亚语] 欢迎",
+    "hello": "[加泰罗尼亚语] 你好，{0}！",
+    "settings": "[加泰罗尼亚语] 设置",
+    "language": "[加泰罗尼亚语] 语言",
+    "save": "[加泰罗尼亚语] 保存",
+    "cancel": "[加泰罗尼亚语] 取消",
+    "error": "[加泰罗尼亚语] 错误",
+    "success": "[加泰罗尼亚语] 成功"
+  }
+}

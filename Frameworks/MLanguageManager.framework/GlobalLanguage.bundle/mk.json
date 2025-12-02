@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "mk",
+    "language_name": "马其顿语",
+    "generated_date": "2025-12-02T09:22:10.222112"
+  },
+  "translations": {
+    "welcome": "[马其顿语] 欢迎",
+    "hello": "[马其顿语] 你好，{0}！",
+    "settings": "[马其顿语] 设置",
+    "language": "[马其顿语] 语言",
+    "save": "[马其顿语] 保存",
+    "cancel": "[马其顿语] 取消",
+    "error": "[马其顿语] 错误",
+    "success": "[马其顿语] 成功"
+  }
+}

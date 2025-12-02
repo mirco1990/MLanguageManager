@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "so",
+    "language_name": "索马里语",
+    "generated_date": "2025-12-02T09:22:10.222888"
+  },
+  "translations": {
+    "welcome": "[索马里语] 欢迎",
+    "hello": "[索马里语] 你好，{0}！",
+    "settings": "[索马里语] 设置",
+    "language": "[索马里语] 语言",
+    "save": "[索马里语] 保存",
+    "cancel": "[索马里语] 取消",
+    "error": "[索马里语] 错误",
+    "success": "[索马里语] 成功"
+  }
+}

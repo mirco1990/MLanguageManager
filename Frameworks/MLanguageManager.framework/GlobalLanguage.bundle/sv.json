@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "sv",
+    "language_name": "瑞典语",
+    "generated_date": "2025-12-02T09:22:10.220785"
+  },
+  "translations": {
+    "welcome": "[瑞典语] 欢迎",
+    "hello": "[瑞典语] 你好，{0}！",
+    "settings": "[瑞典语] 设置",
+    "language": "[瑞典语] 语言",
+    "save": "[瑞典语] 保存",
+    "cancel": "[瑞典语] 取消",
+    "error": "[瑞典语] 错误",
+    "success": "[瑞典语] 成功"
+  }
+}

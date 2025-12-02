@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "mt",
+    "language_name": "马耳他语",
+    "generated_date": "2025-12-02T09:22:10.222186"
+  },
+  "translations": {
+    "welcome": "[马耳他语] 欢迎",
+    "hello": "[马耳他语] 你好，{0}！",
+    "settings": "[马耳他语] 设置",
+    "language": "[马耳他语] 语言",
+    "save": "[马耳他语] 保存",
+    "cancel": "[马耳他语] 取消",
+    "error": "[马耳他语] 错误",
+    "success": "[马耳他语] 成功"
+  }
+}

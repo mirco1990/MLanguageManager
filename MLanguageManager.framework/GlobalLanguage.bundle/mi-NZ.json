@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "mi-NZ",
+    "language_name": "新西兰毛利语",
+    "generated_date": "2025-12-02T09:22:10.229405"
+  },
+  "translations": {
+    "welcome": "[新西兰毛利语] 欢迎",
+    "hello": "[新西兰毛利语] 你好，{0}！",
+    "settings": "[新西兰毛利语] 设置",
+    "language": "[新西兰毛利语] 语言",
+    "save": "[新西兰毛利语] 保存",
+    "cancel": "[新西兰毛利语] 取消",
+    "error": "[新西兰毛利语] 错误",
+    "success": "[新西兰毛利语] 成功"
+  }
+}

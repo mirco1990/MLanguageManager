@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ku",
+    "language_name": "库尔德语",
+    "generated_date": "2025-12-02T09:22:10.219408"
+  },
+  "translations": {
+    "welcome": "[库尔德语] 欢迎",
+    "hello": "[库尔德语] 你好，{0}！",
+    "settings": "[库尔德语] 设置",
+    "language": "[库尔德语] 语言",
+    "save": "[库尔德语] 保存",
+    "cancel": "[库尔德语] 取消",
+    "error": "[库尔德语] 错误",
+    "success": "[库尔德语] 成功"
+  }
+}

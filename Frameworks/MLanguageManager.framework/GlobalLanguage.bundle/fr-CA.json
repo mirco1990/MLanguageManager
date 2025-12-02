@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "fr-CA",
+    "language_name": "加拿大法语",
+    "generated_date": "2025-12-02T09:22:10.224071"
+  },
+  "translations": {
+    "welcome": "[加拿大法语] 欢迎",
+    "hello": "[加拿大法语] 你好，{0}！",
+    "settings": "[加拿大法语] 设置",
+    "language": "[加拿大法语] 语言",
+    "save": "[加拿大法语] 保存",
+    "cancel": "[加拿大法语] 取消",
+    "error": "[加拿大法语] 错误",
+    "success": "[加拿大法语] 成功"
+  }
+}

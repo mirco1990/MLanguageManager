@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "rn",
+    "language_name": "隆迪语",
+    "generated_date": "2025-12-02T09:22:10.223474"
+  },
+  "translations": {
+    "welcome": "[隆迪语] 欢迎",
+    "hello": "[隆迪语] 你好，{0}！",
+    "settings": "[隆迪语] 设置",
+    "language": "[隆迪语] 语言",
+    "save": "[隆迪语] 保存",
+    "cancel": "[隆迪语] 取消",
+    "error": "[隆迪语] 错误",
+    "success": "[隆迪语] 成功"
+  }
+}

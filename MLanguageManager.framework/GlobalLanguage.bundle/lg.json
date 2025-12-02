@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "lg",
+    "language_name": "卢干达语",
+    "generated_date": "2025-12-02T09:22:10.228370"
+  },
+  "translations": {
+    "welcome": "[卢干达语] 欢迎",
+    "hello": "[卢干达语] 你好，{0}！",
+    "settings": "[卢干达语] 设置",
+    "language": "[卢干达语] 语言",
+    "save": "[卢干达语] 保存",
+    "cancel": "[卢干达语] 取消",
+    "error": "[卢干达语] 错误",
+    "success": "[卢干达语] 成功"
+  }
+}

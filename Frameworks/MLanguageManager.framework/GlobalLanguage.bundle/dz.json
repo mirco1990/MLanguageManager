@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "dz",
+    "language_name": "宗卡语（不丹）",
+    "generated_date": "2025-12-02T09:22:10.226750"
+  },
+  "translations": {
+    "welcome": "[宗卡语（不丹）] 欢迎",
+    "hello": "[宗卡语（不丹）] 你好，{0}！",
+    "settings": "[宗卡语（不丹）] 设置",
+    "language": "[宗卡语（不丹）] 语言",
+    "save": "[宗卡语（不丹）] 保存",
+    "cancel": "[宗卡语（不丹）] 取消",
+    "error": "[宗卡语（不丹）] 错误",
+    "success": "[宗卡语（不丹）] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ka",
+    "language_name": "格鲁吉亚语",
+    "generated_date": "2025-12-02T09:22:10.225158"
+  },
+  "translations": {
+    "welcome": "[格鲁吉亚语] 欢迎",
+    "hello": "[格鲁吉亚语] 你好，{0}！",
+    "settings": "[格鲁吉亚语] 设置",
+    "language": "[格鲁吉亚语] 语言",
+    "save": "[格鲁吉亚语] 保存",
+    "cancel": "[格鲁吉亚语] 取消",
+    "error": "[格鲁吉亚语] 错误",
+    "success": "[格鲁吉亚语] 成功"
+  }
+}

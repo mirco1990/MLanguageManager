@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "te",
+    "language_name": "泰卢固语",
+    "generated_date": "2025-12-02T09:22:10.218985"
+  },
+  "translations": {
+    "welcome": "[泰卢固语] 欢迎",
+    "hello": "[泰卢固语] 你好，{0}！",
+    "settings": "[泰卢固语] 设置",
+    "language": "[泰卢固语] 语言",
+    "save": "[泰卢固语] 保存",
+    "cancel": "[泰卢固语] 取消",
+    "error": "[泰卢固语] 错误",
+    "success": "[泰卢固语] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "km",
+    "language_name": "高棉语",
+    "generated_date": "2025-12-02T09:22:10.218494"
+  },
+  "translations": {
+    "welcome": "[高棉语] 欢迎",
+    "hello": "[高棉语] 你好，{0}！",
+    "settings": "[高棉语] 设置",
+    "language": "[高棉语] 语言",
+    "save": "[高棉语] 保存",
+    "cancel": "[高棉语] 取消",
+    "error": "[高棉语] 错误",
+    "success": "[高棉语] 成功"
+  }
+}

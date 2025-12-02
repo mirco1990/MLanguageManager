@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "uk",
+    "language_name": "乌克兰语",
+    "generated_date": "2025-12-02T09:22:10.220465"
+  },
+  "translations": {
+    "welcome": "[乌克兰语] 欢迎",
+    "hello": "[乌克兰语] 你好，{0}！",
+    "settings": "[乌克兰语] 设置",
+    "language": "[乌克兰语] 语言",
+    "save": "[乌克兰语] 保存",
+    "cancel": "[乌克兰语] 取消",
+    "error": "[乌克兰语] 错误",
+    "success": "[乌克兰语] 成功"
+  }
+}

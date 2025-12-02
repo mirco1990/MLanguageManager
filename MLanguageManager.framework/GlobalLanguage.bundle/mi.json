@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "mi",
+    "language_name": "毛利语",
+    "generated_date": "2025-12-02T09:22:10.224579"
+  },
+  "translations": {
+    "welcome": "[毛利语] 欢迎",
+    "hello": "[毛利语] 你好，{0}！",
+    "settings": "[毛利语] 设置",
+    "language": "[毛利语] 语言",
+    "save": "[毛利语] 保存",
+    "cancel": "[毛利语] 取消",
+    "error": "[毛利语] 错误",
+    "success": "[毛利语] 成功"
+  }
+}

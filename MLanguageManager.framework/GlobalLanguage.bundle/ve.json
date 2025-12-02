@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ve",
+    "language_name": "文达语",
+    "generated_date": "2025-12-02T09:22:10.228884"
+  },
+  "translations": {
+    "welcome": "[文达语] 欢迎",
+    "hello": "[文达语] 你好，{0}！",
+    "settings": "[文达语] 设置",
+    "language": "[文达语] 语言",
+    "save": "[文达语] 保存",
+    "cancel": "[文达语] 取消",
+    "error": "[文达语] 错误",
+    "success": "[文达语] 成功"
+  }
+}

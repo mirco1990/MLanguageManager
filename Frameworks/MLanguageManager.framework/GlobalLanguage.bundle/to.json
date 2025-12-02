@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "to",
+    "language_name": "汤加语",
+    "generated_date": "2025-12-02T09:22:10.224901"
+  },
+  "translations": {
+    "welcome": "[汤加语] 欢迎",
+    "hello": "[汤加语] 你好，{0}！",
+    "settings": "[汤加语] 设置",
+    "language": "[汤加语] 语言",
+    "save": "[汤加语] 保存",
+    "cancel": "[汤加语] 取消",
+    "error": "[汤加语] 错误",
+    "success": "[汤加语] 成功"
+  }
+}

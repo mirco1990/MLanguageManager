@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ff",
+    "language_name": "富拉语",
+    "generated_date": "2025-12-02T09:22:10.223752"
+  },
+  "translations": {
+    "welcome": "[富拉语] 欢迎",
+    "hello": "[富拉语] 你好，{0}！",
+    "settings": "[富拉语] 设置",
+    "language": "[富拉语] 语言",
+    "save": "[富拉语] 保存",
+    "cancel": "[富拉语] 取消",
+    "error": "[富拉语] 错误",
+    "success": "[富拉语] 成功"
+  }
+}

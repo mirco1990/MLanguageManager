@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ml",
+    "language_name": "马拉雅拉姆语",
+    "generated_date": "2025-12-02T09:22:10.226089"
+  },
+  "translations": {
+    "welcome": "[马拉雅拉姆语] 欢迎",
+    "hello": "[马拉雅拉姆语] 你好，{0}！",
+    "settings": "[马拉雅拉姆语] 设置",
+    "language": "[马拉雅拉姆语] 语言",
+    "save": "[马拉雅拉姆语] 保存",
+    "cancel": "[马拉雅拉姆语] 取消",
+    "error": "[马拉雅拉姆语] 错误",
+    "success": "[马拉雅拉姆语] 成功"
+  }
+}

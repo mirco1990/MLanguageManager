@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ta",
+    "language_name": "泰米尔语",
+    "generated_date": "2025-12-02T09:22:10.218903"
+  },
+  "translations": {
+    "welcome": "[泰米尔语] 欢迎",
+    "hello": "[泰米尔语] 你好，{0}！",
+    "settings": "[泰米尔语] 设置",
+    "language": "[泰米尔语] 语言",
+    "save": "[泰米尔语] 保存",
+    "cancel": "[泰米尔语] 取消",
+    "error": "[泰米尔语] 错误",
+    "success": "[泰米尔语] 成功"
+  }
+}

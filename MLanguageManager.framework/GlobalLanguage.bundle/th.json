@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "th",
+    "language_name": "泰语",
+    "generated_date": "2025-12-02T09:22:10.217874"
+  },
+  "translations": {
+    "welcome": "[泰语] 欢迎",
+    "hello": "[泰语] 你好，{0}！",
+    "settings": "[泰语] 设置",
+    "language": "[泰语] 语言",
+    "save": "[泰语] 保存",
+    "cancel": "[泰语] 取消",
+    "error": "[泰语] 错误",
+    "success": "[泰语] 成功"
+  }
+}

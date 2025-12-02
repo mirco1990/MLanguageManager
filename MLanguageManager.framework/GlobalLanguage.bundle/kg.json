@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "kg",
+    "language_name": "刚果语",
+    "generated_date": "2025-12-02T09:22:10.228198"
+  },
+  "translations": {
+    "welcome": "[刚果语] 欢迎",
+    "hello": "[刚果语] 你好，{0}！",
+    "settings": "[刚果语] 设置",
+    "language": "[刚果语] 语言",
+    "save": "[刚果语] 保存",
+    "cancel": "[刚果语] 取消",
+    "error": "[刚果语] 错误",
+    "success": "[刚果语] 成功"
+  }
+}

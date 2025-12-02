@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ms",
+    "language_name": "马来语",
+    "generated_date": "2025-12-02T09:22:10.218120"
+  },
+  "translations": {
+    "welcome": "[马来语] 欢迎",
+    "hello": "[马来语] 你好，{0}！",
+    "settings": "[马来语] 设置",
+    "language": "[马来语] 语言",
+    "save": "[马来语] 保存",
+    "cancel": "[马来语] 取消",
+    "error": "[马来语] 错误",
+    "success": "[马来语] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ja",
+    "language_name": "日语",
+    "generated_date": "2025-12-02T09:22:10.217394"
+  },
+  "translations": {
+    "welcome": "[日语] 欢迎",
+    "hello": "[日语] 你好，{0}！",
+    "settings": "[日语] 设置",
+    "language": "[日语] 语言",
+    "save": "[日语] 保存",
+    "cancel": "[日语] 取消",
+    "error": "[日语] 错误",
+    "success": "[日语] 成功"
+  }
+}

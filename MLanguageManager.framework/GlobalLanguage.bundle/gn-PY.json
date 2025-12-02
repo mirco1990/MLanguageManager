@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "gn-PY",
+    "language_name": "巴拉圭瓜拉尼语",
+    "generated_date": "2025-12-02T09:22:10.229068"
+  },
+  "translations": {
+    "welcome": "[巴拉圭瓜拉尼语] 欢迎",
+    "hello": "[巴拉圭瓜拉尼语] 你好，{0}！",
+    "settings": "[巴拉圭瓜拉尼语] 设置",
+    "language": "[巴拉圭瓜拉尼语] 语言",
+    "save": "[巴拉圭瓜拉尼语] 保存",
+    "cancel": "[巴拉圭瓜拉尼语] 取消",
+    "error": "[巴拉圭瓜拉尼语] 错误",
+    "success": "[巴拉圭瓜拉尼语] 成功"
+  }
+}

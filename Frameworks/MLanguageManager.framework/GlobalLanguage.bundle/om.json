@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "om",
+    "language_name": "奥罗莫语",
+    "generated_date": "2025-12-02T09:22:10.223208"
+  },
+  "translations": {
+    "welcome": "[奥罗莫语] 欢迎",
+    "hello": "[奥罗莫语] 你好，{0}！",
+    "settings": "[奥罗莫语] 设置",
+    "language": "[奥罗莫语] 语言",
+    "save": "[奥罗莫语] 保存",
+    "cancel": "[奥罗莫语] 取消",
+    "error": "[奥罗莫语] 错误",
+    "success": "[奥罗莫语] 成功"
+  }
+}

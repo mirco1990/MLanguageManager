@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "hu",
+    "language_name": "匈牙利语",
+    "generated_date": "2025-12-02T09:22:10.221105"
+  },
+  "translations": {
+    "welcome": "[匈牙利语] 欢迎",
+    "hello": "[匈牙利语] 你好，{0}！",
+    "settings": "[匈牙利语] 设置",
+    "language": "[匈牙利语] 语言",
+    "save": "[匈牙利语] 保存",
+    "cancel": "[匈牙利语] 取消",
+    "error": "[匈牙利语] 错误",
+    "success": "[匈牙利语] 成功"
+  }
+}

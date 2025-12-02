@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "tr",
+    "language_name": "土耳其语",
+    "generated_date": "2025-12-02T09:22:10.224984"
+  },
+  "translations": {
+    "welcome": "[土耳其语] 欢迎",
+    "hello": "[土耳其语] 你好，{0}！",
+    "settings": "[土耳其语] 设置",
+    "language": "[土耳其语] 语言",
+    "save": "[土耳其语] 保存",
+    "cancel": "[土耳其语] 取消",
+    "error": "[土耳其语] 错误",
+    "success": "[土耳其语] 成功"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "zu",
+    "language_name": "祖鲁语",
+    "generated_date": "2025-12-02T09:22:10.222965"
+  },
+  "translations": {
+    "welcome": "[祖鲁语] 欢迎",
+    "hello": "[祖鲁语] 你好，{0}！",
+    "settings": "[祖鲁语] 设置",
+    "language": "[祖鲁语] 语言",
+    "save": "[祖鲁语] 保存",
+    "cancel": "[祖鲁语] 取消",
+    "error": "[祖鲁语] 错误",
+    "success": "[祖鲁语] 成功"
+  }
+}

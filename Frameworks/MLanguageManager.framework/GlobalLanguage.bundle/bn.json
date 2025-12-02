@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "bn",
+    "language_name": "孟加拉语",
+    "generated_date": "2025-12-02T09:22:10.219144"
+  },
+  "translations": {
+    "welcome": "[孟加拉语] 欢迎",
+    "hello": "[孟加拉语] 你好，{0}！",
+    "settings": "[孟加拉语] 设置",
+    "language": "[孟加拉语] 语言",
+    "save": "[孟加拉语] 保存",
+    "cancel": "[孟加拉语] 取消",
+    "error": "[孟加拉语] 错误",
+    "success": "[孟加拉语] 成功"
+  }
+}

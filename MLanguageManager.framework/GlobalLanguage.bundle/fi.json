@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "fi",
+    "language_name": "芬兰语",
+    "generated_date": "2025-12-02T09:22:10.221030"
+  },
+  "translations": {
+    "welcome": "[芬兰语] 欢迎",
+    "hello": "[芬兰语] 你好，{0}！",
+    "settings": "[芬兰语] 设置",
+    "language": "[芬兰语] 语言",
+    "save": "[芬兰语] 保存",
+    "cancel": "[芬兰语] 取消",
+    "error": "[芬兰语] 错误",
+    "success": "[芬兰语] 成功"
+  }
+}

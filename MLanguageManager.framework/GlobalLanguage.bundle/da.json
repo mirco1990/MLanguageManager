@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "da",
+    "language_name": "丹麦语",
+    "generated_date": "2025-12-02T09:22:10.220950"
+  },
+  "translations": {
+    "welcome": "[丹麦语] 欢迎",
+    "hello": "[丹麦语] 你好，{0}！",
+    "settings": "[丹麦语] 设置",
+    "language": "[丹麦语] 语言",
+    "save": "[丹麦语] 保存",
+    "cancel": "[丹麦语] 取消",
+    "error": "[丹麦语] 错误",
+    "success": "[丹麦语] 成功"
+  }
+}

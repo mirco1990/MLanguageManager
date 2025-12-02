@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "bem",
+    "language_name": "本巴语",
+    "generated_date": "2025-12-02T09:22:10.227926"
+  },
+  "translations": {
+    "welcome": "[本巴语] 欢迎",
+    "hello": "[本巴语] 你好，{0}！",
+    "settings": "[本巴语] 设置",
+    "language": "[本巴语] 语言",
+    "save": "[本巴语] 保存",
+    "cancel": "[本巴语] 取消",
+    "error": "[本巴语] 错误",
+    "success": "[本巴语] 成功"
+  }
+}

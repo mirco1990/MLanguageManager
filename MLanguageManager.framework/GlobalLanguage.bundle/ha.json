@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ha",
+    "language_name": "豪萨语",
+    "generated_date": "2025-12-02T09:22:10.222814"
+  },
+  "translations": {
+    "welcome": "[豪萨语] 欢迎",
+    "hello": "[豪萨语] 你好，{0}！",
+    "settings": "[豪萨语] 设置",
+    "language": "[豪萨语] 语言",
+    "save": "[豪萨语] 保存",
+    "cancel": "[豪萨语] 取消",
+    "error": "[豪萨语] 错误",
+    "success": "[豪萨语] 成功"
+  }
+}

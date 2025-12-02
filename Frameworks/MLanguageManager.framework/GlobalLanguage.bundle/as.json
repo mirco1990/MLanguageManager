@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "as",
+    "language_name": "阿萨姆语",
+    "generated_date": "2025-12-02T09:22:10.226338"
+  },
+  "translations": {
+    "welcome": "[阿萨姆语] 欢迎",
+    "hello": "[阿萨姆语] 你好，{0}！",
+    "settings": "[阿萨姆语] 设置",
+    "language": "[阿萨姆语] 语言",
+    "save": "[阿萨姆语] 保存",
+    "cancel": "[阿萨姆语] 取消",
+    "error": "[阿萨姆语] 错误",
+    "success": "[阿萨姆语] 成功"
+  }
+}

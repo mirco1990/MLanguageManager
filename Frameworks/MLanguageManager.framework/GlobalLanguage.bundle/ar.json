@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "ar",
+    "language_name": "阿拉伯语",
+    "generated_date": "2025-12-02T09:22:10.217652"
+  },
+  "translations": {
+    "welcome": "[阿拉伯语] 欢迎",
+    "hello": "[阿拉伯语] 你好，{0}！",
+    "settings": "[阿拉伯语] 设置",
+    "language": "[阿拉伯语] 语言",
+    "save": "[阿拉伯语] 保存",
+    "cancel": "[阿拉伯语] 取消",
+    "error": "[阿拉伯语] 错误",
+    "success": "[阿拉伯语] 成功"
+  }
+}

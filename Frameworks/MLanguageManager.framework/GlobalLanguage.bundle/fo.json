@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "fo",
+    "language_name": "法罗语",
+    "generated_date": "2025-12-02T09:22:10.227460"
+  },
+  "translations": {
+    "welcome": "[法罗语] 欢迎",
+    "hello": "[法罗语] 你好，{0}！",
+    "settings": "[法罗语] 设置",
+    "language": "[法罗语] 语言",
+    "save": "[法罗语] 保存",
+    "cancel": "[法罗语] 取消",
+    "error": "[法罗语] 错误",
+    "success": "[法罗语] 成功"
+  }
+}

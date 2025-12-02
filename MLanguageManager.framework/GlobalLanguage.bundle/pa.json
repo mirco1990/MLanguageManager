@@ -1,0 +1,17 @@
+{
+  "_metadata": {
+    "language_code": "pa",
+    "language_name": "旁遮普语",
+    "generated_date": "2025-12-02T09:22:10.226251"
+  },
+  "translations": {
+    "welcome": "[旁遮普语] 欢迎",
+    "hello": "[旁遮普语] 你好，{0}！",
+    "settings": "[旁遮普语] 设置",
+    "language": "[旁遮普语] 语言",
+    "save": "[旁遮普语] 保存",
+    "cancel": "[旁遮普语] 取消",
+    "error": "[旁遮普语] 错误",
+    "success": "[旁遮普语] 成功"
+  }
+}
