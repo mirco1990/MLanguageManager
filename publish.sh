@@ -4,7 +4,6 @@
 FRAMEWORK_NAME="MLanguageManager" # 你的框架名
 PODSPEC_NAME="${FRAMEWORK_NAME}.podspec" # podspec文件名
 FRAMEWORK_PATH="./MLanguageManager.framework" # 预编译framework的路径，相对于脚本位置
-# 注意：如果framework在git仓库内，建议放在项目根目录或指定子目录
 GIT_REMOTE="origin" # Git远程仓库别名
 BRANCH="main" # 要推送的分支名（根据你的仓库调整，如main/master）
 VERSION="1.0.0" # 本次发布的版本号，务必与podspec中的s.version一致
@@ -103,6 +102,7 @@ fi
 
 # 5. Git提交与打标签（关键：推送framework）
 echo "🏷️  步骤5：Git提交与打标签 v${VERSION}..."
+
 # 检查是否有未提交的更改
 if git diff-index --quiet HEAD --; then
     echo "ℹ️  当前没有未提交的更改。"
@@ -122,21 +122,90 @@ else
     fi
 fi
 
-# 推送分支
-echo "推送分支到远程仓库..."
-git push "${GIT_REMOTE}" "${BRANCH}" || {
-    echo "❌ 推送分支失败，请检查网络连接和权限。"
-    exit 1
-}
-echo "✅ 分支推送成功。"
+# ========== 新增：用户选择是否推送 Git ==========
+echo ""
+echo "📤 Git 推送选项："
+echo "  1) 推送分支和标签（推荐，首次发布或代码有更新）"
+echo "  2) 只推送标签（代码已推送，仅需更新标签）"
+echo "  3) 跳过 Git 推送（已推送过，直接进入验证步骤）"
+read -p "请选择 (1/2/3): " -n 1 -r
+echo
 
-# 删除可能存在的旧标签，然后创建并推送新标签
-echo "创建并推送标签 v${VERSION}..."
-git tag -d "${VERSION}" 2>/dev/null || true
-git push "${GIT_REMOTE}" --delete "refs/tags/${VERSION}" 2>/dev/null || true
-git tag "${VERSION}"
-git push "${GIT_REMOTE}" --tags
-echo "✅ Git标签 v${VERSION} 已创建并推送。"
+case $REPLY in
+    1)
+        # 推送分支（使用智能推送处理远程有更新的情况）
+        echo "推送分支到远程仓库..."
+        
+        # 智能推送函数
+        smart_push() {
+            local remote="$1"
+            local branch="$2"
+            
+            echo "尝试推送分支..."
+            if git push "$remote" "$branch" 2>&1 | grep -q "rejected"; then
+                echo "⚠️  推送被拒绝，远程有本地没有的更新"
+                echo "尝试拉取远程更新并合并..."
+                
+                read -p "是否拉取远程更新并合并？(y/n): " -n 1 -r
+                echo
+                if [[ $REPLY =~ ^[Yy]$ ]]; then
+                    if git pull "$remote" "$branch" --rebase; then
+                        echo "✅ 拉取并合并成功，重新推送..."
+                        git push "$remote" "$branch" && return 0
+                    else
+                        echo "❌ 拉取失败，可能存在冲突"
+                        return 1
+                    fi
+                else
+                    echo "是否强制推送（覆盖远程）？(y/n): " -n 1 -r
+                    echo
+                    if [[ $REPLY =~ ^[Yy]$ ]]; then
+                        git push "$remote" "$branch" --force && return 0
+                    else
+                        echo "⏹️  用户取消推送"
+                        return 1
+                    fi
+                fi
+            else
+                return 0
+            fi
+        }
+        
+        if smart_push "${GIT_REMOTE}" "${BRANCH}"; then
+            echo "✅ 分支推送成功。"
+        else
+            echo "❌ 分支推送失败，请手动处理"
+            exit 1
+        fi
+        
+        # 推送标签
+        echo "创建并推送标签 v${VERSION}..."
+        git tag -d "${VERSION}" 2>/dev/null || true
+        git push "${GIT_REMOTE}" --delete "refs/tags/${VERSION}" 2>/dev/null || true
+        git tag "${VERSION}"
+        git push "${GIT_REMOTE}" --tags
+        echo "✅ Git标签 v${VERSION} 已创建并推送。"
+        ;;
+        
+    2)
+        # 只推送标签
+        echo "创建并推送标签 v${VERSION}..."
+        git tag -d "${VERSION}" 2>/dev/null || true
+        git push "${GIT_REMOTE}" --delete "refs/tags/${VERSION}" 2>/dev/null || true
+        git tag "${VERSION}"
+        git push "${GIT_REMOTE}" --tags
+        echo "✅ Git标签 v${VERSION} 已创建并推送。"
+        ;;
+        
+    3)
+        # 跳过 Git 推送
+        echo "⏭️  跳过 Git 推送步骤"
+        ;;
+        
+    *)
+        echo "❌ 无效选择，默认跳过 Git 推送"
+        ;;
+esac
 
 # 6. 验证podspec（现在可以从远程仓库正确获取代码）
 echo "🧪 步骤6：验证podspec文件..."
